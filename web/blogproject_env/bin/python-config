@@ -1,4 +1,4 @@
-#!/Users/tangmoumou/web/blogproject_env/bin/python
+#!/Users/tangmoumou/web/web/blogproject_env/bin/python
 
 import sys
 import getopt
